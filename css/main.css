@@ -1,0 +1,172 @@
+
+body {
+    margin: 20px 0px 20px 0px;
+    font-family: Verdana;
+    background-color: #efede3;
+
+}
+
+
+h1, h2, h3, h4,h5, h6{
+    font-family: "lust-text", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 60px;
+}
+
+h1{
+    color: #E2DBD0;
+    font-size: 50px;
+    background-color: #798a66;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-bottom: -16px;
+    margin-top: -19px;
+
+    text-align: center;
+
+}
+
+h2{
+    margin-top: 400px;
+    color: #628b35;
+    text-align: center;
+
+}
+
+h3{
+   color: #628b35;
+   text-align: center;
+   
+}
+
+h4{
+    color: #628b35;
+    text-align: center;
+    padding-top: 200px;
+
+}
+
+
+h5 {
+    color: #628b35;
+        text-align: center;
+        padding-top: 200px;
+        margin: 50px;
+        padding-left: 0px;
+
+   }
+
+h6 {
+color: #628b35;
+    text-align: center;
+    padding-top: 200px;
+    margin: 0px;
+    padding-left: 0px;
+
+}
+
+p {
+    color: #628b35;
+    font-size: 20px;
+    text-align: center;
+    font-family: "elza-text", sans-serif;
+    padding-bottom: 5em;
+    padding-left: 7em;
+    padding-top: 1em;
+    padding-right: 5em;
+
+}
+
+
+
+div {
+        border: 1px solid #5c7e5f;
+        background-color: none;
+      }
+
+
+section {
+    padding-bottom: 400px;
+
+}
+
+.navbar ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+
+
+.navbar{
+    background-color: #103713;
+}
+
+.navbar{
+    font-family: "elza-text", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    opacity: 50%;
+}
+
+.navbar a{
+    color:#E2DBD0;
+    display: block;
+    text-align: justify;
+    padding: 8px;
+    margin: 10px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navbar a:hover{
+    background-color: #2e5031;
+}
+
+.navbar li{
+    float:left;
+}
+
+.navbar{
+    position: sticky; top: 0%;
+
+}
+
+
+
+#p2{ 
+    color: #628b35;
+    font-size: 20px;
+    text-align: center;
+}
+
+#p4{ color: #628b35;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 300px;
+   padding-right: 300px;
+
+}
+
+.container{
+    width: 100%;
+    margin-top:0px;
+    margin-left: 0px;
+    margin-bottom: 100px;
+    height: 00%;
+    border: none;
+    background-color: #b6c5a6;
+}
+
+.image{
+
+    width: 1441px;
+    margin-left: 0px;
+    padding-left: 200;
+    margin-top: -16px;
+
+}
+
+
+section{
+    background-color: #d2cdb6;
+}
